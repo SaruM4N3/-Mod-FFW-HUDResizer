@@ -48,8 +48,9 @@ This mod provides an easy way to resize the HUD elements in FarFarWest. Perfect 
 <details>
 <summary><b>How to Use</b></summary>
 
-Ctrl+UpArrow -> increase HUD size 
-Ctrl+DownArrow -> decrease HUD size 
+- Ctrl+UpArrow -> increase HUD size
+- Ctrl+DownArrow -> decrease HUD size
+
 Once installed, the mod will automatically adjust your HUD scaling. The mod works seamlessly in the background without requiring additional configuration.
 
 </details>
